@@ -1,0 +1,8 @@
+Q2: what field could date science be applied to? Give and Example and how it 
+might help
+
+Answer: A field that utilize data science is finance. Quantitative analysts 
+utilizes data to predict outcomes in the market/businesses. For example, 
+suppose a quantitative analyst was hired to predict an investor's possible 
+return on apple. They could use pre-existing data, such as yahoo finance, and
+use the fama-french model to calculate the returns.   
