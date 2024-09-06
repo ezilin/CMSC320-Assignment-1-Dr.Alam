@@ -14,3 +14,9 @@ utilizes data to predict outcomes in the market/businesses. For example,
 suppose a quantitative analyst was hired to predict an investor's possible 
 return on apple. They could use pre-existing data, such as yahoo finance, and
 use the fama-french model to calculate the returns.   
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging and rebasing essentially accomplishes the same goal of 
+combining two branches together. However, one difference is that the 
+history (or git log) will look a bit different. 
