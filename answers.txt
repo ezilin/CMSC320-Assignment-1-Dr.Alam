@@ -1,0 +1,7 @@
+Q1: Why might be consider using git?
+
+Answer: git allows users to manage the repositories and files within a git 
+directory. The appeal of git is its ability to stage and commit changes 
+leaving us with the ability to freely access the history of files, or take a 
+whole new direction with a file through the use of branches. Furthermore, we 
+can easily collaborate with other users due to repository.
