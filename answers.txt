@@ -5,3 +5,12 @@ directory. The appeal of git is its ability to stage and commit changes
 leaving us with the ability to freely access the history of files, or take a 
 whole new direction with a file through the use of branches. Furthermore, we 
 can easily collaborate with other users due to repository.
+
+Q2: what field could date science be applied to? Give and Example and how it 
+might help
+
+Answer: A field that utilize data science is finance. Quantitative analysts 
+utilizes data to predict outcomes in the market/businesses. For example, 
+suppose a quantitative analyst was hired to predict an investor's possible 
+return on apple. They could use pre-existing data, such as yahoo finance, and
+use the fama-french model to calculate the returns.   
