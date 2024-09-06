@@ -20,3 +20,8 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging and rebasing essentially accomplishes the same goal of 
 combining two branches together. However, one difference is that the 
 history (or git log) will look a bit different. 
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I want to improve on general data science knowledge, python, and learn 
+data science-related python libraries (matplotlib, pandas, etc.)
