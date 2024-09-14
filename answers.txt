@@ -19,9 +19,11 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merging and rebasing essentially accomplishes the same goal of 
 combining two branches together. However, one difference is that the 
-history (or git log) will look a bit different. 
+history (or git log) will look a bit different. git merge will tie the two branches 
+together, whereas git log will append one branch to the other. git rebase also does 
+not require a merge commit unlike git merge.
 
-Q3: What skills do you hope to improve during this course?
+Q4: What skills do you hope to improve during this course?
 
 Answer: I want to improve on general data science knowledge, python, and learn 
 data science-related python libraries (matplotlib, pandas, etc.)
